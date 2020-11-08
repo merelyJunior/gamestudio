@@ -1,0 +1,29 @@
+﻿@font-face{
+    font-family: 'Gotham';
+     src: url('../typo/GothaProBla.otf') ;
+     font-weight: 700;
+    }
+@font-face{
+        font-family: 'Gotham';
+         src: url('../typo/GothaProBol.otf');
+         font-weight: 600;
+    }
+@font-face{
+        font-family: 'Gotham';
+            src: url('../typo/GothaProMed.otf');
+            font-weight: 500;
+    }
+@font-face{
+        font-family: 'Gotham';
+            src: url('../typo/GothaProReg.otf');
+            font-weight: 400;
+    }
+@font-face{
+        font-family: 'Gotham';
+            src: url('../typo/GothaProThin.otf');
+            font-weight: 100;
+    }
+    
+    
+    
+    
